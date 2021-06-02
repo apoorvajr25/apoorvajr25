@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Apoorva J R, MS by Research Scholar in Digital VLSI design at IIIT Bangalore
 - 👀 I’m interested in VLSI design, FPGA design, ASIC flow, verilog modelling
 - 🌱 I’m currently working on Floating point, Posits. 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... apoorva.jr@iiitb.ac.in
 
 <!---
